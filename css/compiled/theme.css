@@ -1533,7 +1533,7 @@ a:focus, button:focus {
           #home2 #hero .slides .slide.third {
             padding-top: 50px; } }
         #home2 #hero .slides .slide.third .bg {
-          background-image: url("http://farm6.staticflickr.com/5267/5783999789_9d06e5d7df_b.jpg");
+          background-image: url("../../images/bn3.png");
           background-position: center 15%; }
           #home2 #hero .slides .slide.third .bg:after {
             background: rgba(3, 9, 27, 0.5); }
